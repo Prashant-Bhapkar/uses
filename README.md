@@ -29,6 +29,6 @@ Last Update: 30-09-2022
 + Vegas Pro
 + Photoshop
 
-## Daily Usage GitGub Repositories
+## Daily Usage Tools
 + [Awesome Security Resources](https://github.com/Prashant-Bhapkar/Awesome-Security-Resources)
 + [Digital Forensic](https://github.com/Prashant-Bhapkar/Digital-Forensic)
